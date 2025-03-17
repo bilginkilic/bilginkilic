@@ -1,6 +1,6 @@
 # Hey, 
 
-I'm a developer, entrepreneur, and creative soul building cool digital experiences. I craft sleek websites, innovative apps, and am busy setting up own LLL tool.
+I'm a developer, entrepreneur, and creative soul building cool digital experiences. I craft sleek websites, innovative apps, and am busy with making applications faster using AI models.
 
 ## What I Do
 
